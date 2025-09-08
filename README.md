@@ -11,9 +11,13 @@ Power BI – DAX for creating Measures,Interactive dashboards & data visualizati
 🛠️ Project Workflow
 1️⃣Writing SQL Queries
 Cleaned and validated raw transaction and engagement data Calculated: Total purchase amounts, Engagement metrics.
+
+
 2️⃣ Data Transformation & Analysis 
 Handled missing values Calculated business metrics:
 Average Purchase Amount, Engagement Rate, Customer Lifetime Value (CLV).
+
+
 3️⃣ Power BI Dashboard Creation
 Designed an interactive dashboard featuring:
 KPI Cards
