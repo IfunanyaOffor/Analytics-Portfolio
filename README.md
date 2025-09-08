@@ -30,7 +30,6 @@ Visuals Segmented into 3 Respective Dashboards: Customers Data, Social Media and
 Identified customer behavior patterns.
 Tracked engagement trends.
 Highlighted high-performing products.
-Supported data-driven decisions for marketing & sales.<img width="1586" height="776" alt="Screenshot 2025-09-08 205857" src="https://github.com/user-attachments/assets/7f80e0bd-5cc4-4bcf-accb-a84916c9a893" />
-
+Supported data-driven decisions for marketing & sales.
 
 This project shows the power of combining SQL (for analysis) and Power BI (for visualization) to turn raw data into actionable insights and drive smarter business decisions.
