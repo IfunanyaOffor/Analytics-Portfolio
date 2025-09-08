@@ -1,3 +1,5 @@
+<img width="1699" height="777" alt="Screenshot 2025-09-08 205826" src="https://github.com/user-attachments/assets/8caf9817-2918-4173-a692-0dae8b5fdb9d" />
+<img width="1711" height="777" alt="Screenshot 2025-09-08 205742" src="https://github.com/user-attachments/assets/6367e300-7ac1-4509-8c5e-fe70c1ad2de6" />
 From Queries to Power BI Dashboards
 This project demonstrates how raw transaction and social media data were transformed into actionable insights using SQL for analysis and Power BI for visualization.
 
